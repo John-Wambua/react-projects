@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "Another one!",
+      "description": "New Stream",
+      "id": 3
+    },
+    {
+      "title": "Football",
+      "description": "Man United!",
+      "id": 4
+    },
+    {
+      "title": "Wassup!!",
+      "description": "It's your boy",
+      "id": 5
+    },
+    {
+      "title": "My Brand New Stream",
+      "description": "The ultimate Stream",
+      "userId": "101927200935705408105",
+      "id": 6
+    }
+  ]
+}
